@@ -13,9 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=ananyaa0518&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ananyaa0518&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaa0518&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-### 🌐 Hacktoberfest:
 
-[![An image of @ananyaa0518's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ananyaa0518)](https://holopin.io/@ananyaa0518)
 ---
-[![](https://visitcount.itsvg.in/api?id=ananyaa0518&icon=0&color=12)](https://visitcount.itsvg.in)
-
