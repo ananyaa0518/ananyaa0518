@@ -14,6 +14,6 @@ Hi, I am Ananyaa!
 - 📍 based in India
 - 🍵 mentee at Codess.Cafe
 - 👩‍💻 I find my technical interests in Problem Solving and open source !. 
-- 📈 currently building projects in data analytics and ML.
+- 📈 currently building projects in full-stack, data analytics and ML.
 - 🖋️ Fun-fact: I like turning ideas into clean interfaces and visuals, not just code.
 - 🫥 I chase new things fast, now trying to build depth over jumping around.
