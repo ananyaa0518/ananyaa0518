@@ -10,10 +10,9 @@ You can find me here :
 
 ## About Me
 Hi, I am Ananyaa!
-- 🔭 I am a second year Computer Science undergrad.
-- 📍 based in India
+- 🔭 I am a third year Computer Science undergrad.
 - 🍵 mentee at Codess.Cafe
-- 👩‍💻 I find my technical interests in Problem Solving and open source !. 
-- 📈 currently building projects in full-stack, data analytics and ML.
+- 🌱 Exploring ML, data-driven systems, and full-stack development
+- 🌐 Contributing to open-source projects and developer communities
 - 🖋️ Fun-fact: I like turning ideas into clean interfaces and visuals, not just code.
 - 🫥 I chase new things fast, now trying to build depth over jumping around.
